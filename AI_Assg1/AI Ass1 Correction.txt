@@ -1,0 +1,22 @@
+There is some correction on the assginment no. 1, 
+
+We call them ABCD, having height 10, 5, 1, 2 then there will be an optimal solution for the transportation trip that will take 17 units of time in total, and consists of following trips. 
+
+1.    C and D will go first it will take 2 unit of time. 
+2.    C will come back; it will take 1 unit of time. 
+3.    B and C will go in the second trip, it will take 5 unit of time. 
+4.    C will come back; it will take again 1 unit of time. 
+5.    A and C will go in the third trip, it will take 10 unit of time.  
+Adding all of them 2+1+10+2+2 =17 
+
+You need to find the optimal unit of time in all cases. Hence, the outoutfile contains 17 units instead of 19. 
+
+There is one more correction, There are 10 planets that are participating in the meeting. Each one is represented by English alphabet, staring from A to J. The height of each species 10,5,1,2,6,7,3,4,4,and 5 respectively. 
+
+2, 1 gaya = 2
+1 wapis
+1, 5, 10
+5, 1 gaya =2+5
+1 wapis
+1, 10
+1, 10 gaya = 2+5+10
